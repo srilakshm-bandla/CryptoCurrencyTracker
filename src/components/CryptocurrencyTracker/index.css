@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.crypto-currency-tracker-container {
+  background-color: #000000;
+  min-height: 100vh;
+}
+.currency-list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-container {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 28px;
+}
+.loading {
+  justify-content: center;
+  background-color: #000000;
+  min-height: 100vh;
+}
+.ring-loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}

@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.currency-item-image {
+  width: 30px;
+  height: 30px;
+  margin-right: 8px;
+}
+.cname {
+  color: #ffffff;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+.currency-list-item {
+  display: flex;
+
+  align-items: flex-start;
+
+  padding: 18px;
+  width: 80%;
+}
+.currency-usd {
+  text-align: right;
+  flex-grow: 1;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+
+.logo-name-container {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+}
+.currency-sub-container {
+  width: 150px;
+  display: flex;
+  align-items: center;
+}
